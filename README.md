@@ -9,7 +9,7 @@ Big picture of the X-lab ~
 - **OpenGalaxy**: https://github.com/X-lab2017/open-galaxy
 - **OpenPerf**: https://github.com/X-lab2017/open-perf
 - **OpenResearch**: https://github.com/X-lab2017/open-research
--** ONES Group**: https://github.com/kaiyuanshe/ONES
+- ONES Group: https://github.com/kaiyuanshe/ONES
 - **OpenInsight-Index**: http://open-insight-index.x-lab.info/
 
 
