@@ -12,5 +12,5 @@ Big picture of the X-lab ~
 - **ONES Group**: https://github.com/kaiyuanshe/ONES
 - **OpenInsight-Index**: http://open-insight-index.x-lab.info/
 
-X-Kanban (Only internal): https://github.com/orgs/X-lab2017/projects/3/views/1
+**X-Kanban** (Only internal): https://github.com/orgs/X-lab2017/projects/3/views/1
 
