@@ -10,7 +10,7 @@
 - 💪 如何在这里学习与成长？
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15010826/159124008-cccd4cb3-230e-4c10-8ab9-bab59a3ffae4.png" width="650px">
+<img src="https://user-images.githubusercontent.com/15010826/159124919-d7fc86ac-15d2-45a7-911d-7a4509574df8.png" width="650px">
 </div>
 
 **<p align="center">OpenWanderland 全景图</p>**
@@ -19,9 +19,9 @@
 
 `OpenDigger 作为开源生态数据分析的核心项目，负责与开源测量学相关的一切数据、指标、模型、算法等落库与实现，成为一个具有共识性的实施标准工具集，当前 OpenDigger 项目已经在木兰社区下面进行孵化与培养，并服务于包括木兰社区、开放原子、互联网企业、COSS企业、投资机构、媒体等不同的组织。`
 
-#### 2️⃣ **OpenDigger（数据型开源项目）**: https://github.com/X-lab2017/open-digger
+#### 2️⃣ **Hypertrons（RPA 自动化型开源项目）**: https://github.com/hypertrons/hypertrons
 
-`OpenDigger 作为开源生态数据分析的核心项目，负责与开源测量学相关的一切数据、指标、模型、算法等落库与实现，成为一个具有共识性的实施标准工具集，当前 OpenDigger 项目已经在木兰社区下面进行孵化与培养，并服务于包括木兰社区、开放原子、互联网企业、COSS企业、投资机构、媒体等不同的组织。`
+`Hypertrons 是一个面向开放式组织的机器人流程自动化平台项目，能够为包括开源社区在内的各种开放式组织提供定制化的数字空间流程自动化服务，配合组织行为数据，进而提升组织的决策智能。`
 
 #### 3️⃣ **Hypercrx（插件应用型开源项目）**: https://github.com/hypertrons/hypertrons-crx
 
