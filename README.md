@@ -11,7 +11,7 @@
 
 Big picture of the X-lab ~
 
-<img src="https://user-images.githubusercontent.com/15010826/158493505-13081d11-62f7-440c-beab-735bc24a4c6e.jpg" width="650px">
+<img src="https://user-images.githubusercontent.com/15010826/159116007-5b5b2197-a00f-4c36-a320-26a14da11af7.png" width="650px">
 
 #### 1️⃣ **OpenDigger（数据型开源项目）**: https://github.com/X-lab2017/open-digger
 
