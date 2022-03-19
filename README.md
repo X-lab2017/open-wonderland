@@ -21,9 +21,10 @@ Big picture of the X-lab ~
 - **ONES Group**: https://github.com/kaiyuanshe/ONES
 - **OpenInsight-Index**: http://open-insight-index.x-lab.info/
 
-📚 **X-Kanban** (internal only): https://github.com/orgs/X-lab2017/projects/3/views/1
+1️⃣ **X-Kanban** (internal only): https://github.com/orgs/X-lab2017/projects/3/views/1
 
-📚 **Hypercrx 看板** (public)：https://github.com/hypertrons/hypertrons-crx/projects/6
+2️⃣ **Hypercrx 看板** (public)：https://github.com/hypertrons/hypertrons-crx/projects/6
 
-📚 **ONES Group 看板** (public)：https://github.com/kaiyuanshe/ONES/projects
+3️⃣ **ONES Group 看板** (public)：https://github.com/kaiyuanshe/ONES/projects
 
+📚 **Emoji 表情包**：https://github.com/guodongxiaren/README/blob/master/emoji.md
