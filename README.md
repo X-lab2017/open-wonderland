@@ -9,6 +9,7 @@
 - 如何选择一个我感兴趣的项目参与
 - 如何在这里学习与成长
 
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/159118608-f36ac9a7-94c7-4ac9-bb59-febc9a7955b7.png" width="650px">
 </div>
