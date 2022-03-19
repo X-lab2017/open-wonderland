@@ -19,7 +19,7 @@
 
 `OpenDigger 作为开源生态数据分析的核心项目，负责与开源测量学相关的一切数据、指标、模型、算法等落库与实现，成为一个具有共识性的实施标准工具集，当前 OpenDigger 项目已经在木兰社区下面进行孵化与培养，并服务于包括木兰社区、开放原子、互联网企业、COSS企业、投资机构、媒体等不同的组织。`
 
-#### 2️⃣ **Hypertrons（RPA 自动化型开源项目）**: https://github.com/hypertrons/hypertrons
+#### 2️⃣ **Hypertrons（自动化型开源项目）**: https://github.com/hypertrons/hypertrons
 
 `Hypertrons 是一个面向开放式组织的机器人流程自动化平台项目，能够为包括开源社区在内的各种开放式组织提供定制化的数字空间流程自动化服务，配合组织行为数据，进而提升组织的决策智能。`
 
@@ -27,7 +27,7 @@
 
 `Hypercrx 是一个数据服务类别的浏览器插件，为 GitHub 上的每个开源社区提供丰富的面向社区运营的数据服务，帮助它们更好的健康持续发展。`
 
-#### 4️⃣ **OpenGalaxy（Web 应用型开源项目）**: https://github.com/X-lab2017/open-galaxy
+#### 4️⃣ **OpenGalaxy（前端应用型开源项目）**: https://github.com/X-lab2017/open-galaxy
 
 `OpenGalaxy 是一个酷炫的 Web 3D 型应用，让一个开源爱好者遨游在一个开源星系中。`
 
