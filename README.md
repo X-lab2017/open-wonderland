@@ -14,3 +14,5 @@ Big picture of the X-lab ~
 
 📚 **X-Kanban** (internal only): https://github.com/orgs/X-lab2017/projects/3/views/1
 
+**Hypercrx 看板**：https://github.com/hypertrons/hypertrons-crx/projects/6
+
