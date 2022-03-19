@@ -22,7 +22,8 @@ Big picture of the X-lab ~
 - **OpenInsight-Index**: http://open-insight-index.x-lab.info/
 
 **Reference：**
-- 1️⃣ **X-Kanban** (internal only): https://github.com/orgs/X-lab2017/projects/3/views/1
-- 2️⃣ **Hypercrx 看板** (public)：https://github.com/hypertrons/hypertrons-crx/projects/6
-- 3️⃣ **ONES Group 看板** (public)：https://github.com/kaiyuanshe/ONES/projects
-- 📚 **Emoji 表情包**：https://github.com/guodongxiaren/README/blob/master/emoji.md
+
+1️⃣ **X-Kanban** (internal only): https://github.com/orgs/X-lab2017/projects/3/views/1
+2️⃣ **Hypercrx 看板** (public)：https://github.com/hypertrons/hypertrons-crx/projects/6
+3️⃣ **ONES Group 看板** (public)：https://github.com/kaiyuanshe/ONES/projects
+📚 **Emoji 表情包**：https://github.com/guodongxiaren/README/blob/master/emoji.md
