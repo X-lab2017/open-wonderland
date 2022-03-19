@@ -1,6 +1,6 @@
 # OpenWonderland
 
-👋 **X-lab 开放实验室的开源奇妙世界**（X-lab’s Open Source Wonderland，简称 OpenWanderland）系统展示了实验室旗下众多优秀的开源创意项目。作为一个新人，如何了解这些开源项目，进而选择自己感兴趣的项目进行贡献，本项目就像是一个导游手册，带领大家进入 OpenWanderland 这个奇妙的开源射界。
+👋 **X-lab 开放实验室的开源奇妙世界**（X-lab’s Open Source Wonderland，简称 OpenWanderland）系统展示了实验室旗下众多优秀的开源创意项目。作为一个新人，如何了解这些开源项目，进而选择自己感兴趣的项目进行贡献，本项目就像是一个**导游手册**，带领大家进入 OpenWanderland 这个奇妙的开源世界；同时又作为一个开源项目**孵化器**，持续打造这些开源项目的品牌与影响力。
 
 在这里，能够找到你所需要的信息，包括：
 
