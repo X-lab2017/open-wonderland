@@ -27,7 +27,7 @@ Big picture of the X-lab ~
 
 #### ⭐ **OpenPerf（基准测试型开源项目）**: https://github.com/X-lab2017/open-perf
 
-`OpenPerf 是一个开源生态数据的基准测试工具集，从实际的开源治理与运营场景中提炼出挑战，进而形成业内高度认可的分析任务、数据集、评价指标、标杆基准等。`
+`OpenPerf 是一个开源生态数据的基准测试工具集，从实际的开源治理与运营场景中提炼出挑战，进而形成业内高度认可的分析任务、数据集、评价指标、标杆等。`
 
 #### ⭐ **OpenResearch（学术研究型开源项目）**: https://github.com/X-lab2017/open-research
 
