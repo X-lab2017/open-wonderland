@@ -27,7 +27,7 @@
 
 `Hypercrx 是一个数据服务类别的浏览器插件，为 GitHub 上的每个开源社区提供丰富的面向社区运营的数据服务，帮助它们更好的健康持续发展。`
 
-#### 4️⃣ **OpenGalaxy（前端应用型开源项目）**: https://github.com/X-lab2017/open-galaxy
+#### 4️⃣ **OpenGalaxy（3D 交互应用型开源项目）**: https://github.com/X-lab2017/open-galaxy
 
 `OpenGalaxy 是一个酷炫的 Web 3D 型应用，让一个开源爱好者遨游在一个开源星系中。`
 
