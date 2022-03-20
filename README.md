@@ -1,6 +1,8 @@
 # OpenWonderland
 
-👋 欢迎来到 **X-lab 开放实验室的开源奇妙世界**（X-lab’s Open Source Wonderland，OpenWanderland），这里展示了实验室旗下众多优秀的开源创意项目。  作为一个新人，如何了解这些开源项目，进而选择自己感兴趣的项目进行贡献，OpenWanderland 就像是一个**导游手册**（**Guiding**）📚，带领大家进入这个奇妙的开源世界；同时又作为开源项目的**孵化器**（**Incubator**）🐣与**加速器**（**Accelerator**）🚀，持续打造这些开源项目的**影响力与品牌**（**Branding**）🌟，最终形成一系列的知识、经验、方法论、工具与服务。
+👋 欢迎来到 **X-lab 开放实验室的开源奇妙世界**（X-lab’s Open Source Wonderland，OpenWanderland），这里展示了实验室旗下众多优秀的开源创意项目。
+
+作为一个新人，如何了解这些开源项目，进而选择自己感兴趣的项目进行贡献，OpenWanderland 就像是一个**导游手册**（**Guiding**）📚，带领大家进入这个奇妙的开源世界；同时又作为开源项目的**孵化器**（**Incubator**）🐣与**加速器**（**Accelerator**）🚀，持续打造这些开源项目的**影响力与品牌**（**Branding**）🌟，最终形成一系列的知识、经验、方法论、工具与服务。
 
 在这里，能够找到你所需要的信息，包括：
 
@@ -16,9 +18,9 @@
 **<p align="center">OpenWanderland 全景图</p>**
 
 #### 1️⃣ **OpenDigger（数据型开源项目）**: https://github.com/X-lab2017/open-digger
-'''
+```
 OpenDigger 作为开源生态数据分析的核心项目，负责与开源测量学相关的一切数据、指标、模型、算法等落库与实现，成为一个具有共识性的实施标准工具集，当前 OpenDigger 项目已经在木兰社区下面进行孵化与培养，并服务于包括木兰社区、开放原子、互联网企业、COSS企业、投资机构、媒体等不同的组织。
-'''
+```
 
 #### 2️⃣ **Hypertrons（自动化型开源项目）**: https://github.com/hypertrons/hypertrons
 
