@@ -14,7 +14,7 @@
 - 💪 如何在这里学习、成长与创新？
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15010826/159125466-99c6b9e0-cb1e-45c0-99b9-5619aa95097c.png" width="650px">
+<img src="https://user-images.githubusercontent.com/15010826/159147077-08558014-0362-4ab2-b8f9-4cb69b03d52c.png" width="650px">
 </div>
 
 **<p align="center">OpenWanderland 全景图</p>**
