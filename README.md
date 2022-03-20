@@ -50,7 +50,7 @@
 > ONES Group 是一个开源战略研究组，聚集一群在开源治理与社群运营方面有不同经历与经验的专业人士，共同推动全球开源治理的发展，建设中国的开源治理创新体系。
 
 
-#### **Reference：**👇
+#### **Reference：👇**
 
 📚 **X-Kanban** (internal only): https://github.com/orgs/X-lab2017/projects/3/views/1
 
