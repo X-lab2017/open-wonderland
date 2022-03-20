@@ -27,11 +27,11 @@
 
 #### 3️⃣ **Hypercrx（插件应用型开源项目）**: https://github.com/hypertrons/hypertrons-crx
 
-> Hypercrx 是一个数据服务类别的浏览器插件，为 GitHub 上的每个开源社区提供丰富的面向社区运营的数据服务，帮助它们更好的健康持续发展。[[安装插件](https://github.com/hypertrons/hypertrons-crx/blob/master/INSTALLATION.md "Hypercrx 插件")]
+> Hypercrx 是一个数据服务类别的浏览器插件，为 GitHub 上的每个开源社区提供丰富的面向社区运营的数据服务，帮助它们更好的健康持续发展。`[[安装插件](https://github.com/hypertrons/hypertrons-crx/blob/master/INSTALLATION.md "Hypercrx 插件")]`
 
 #### 4️⃣ **OpenGalaxy（3D 交互应用型开源项目）**: https://github.com/X-lab2017/open-galaxy
 
-> OpenGalaxy 是一个酷炫的 Web 3D 型应用，让一个开源爱好者遨游在一个开源星系中。[[进入应用](https://open-galaxy.x-lab.info "开源星系")]
+> OpenGalaxy 是一个酷炫的 Web 3D 型应用，让一个开源爱好者遨游在一个开源星系中。`[[进入应用](https://open-galaxy.x-lab.info "开源星系")]`
 
 #### 5️⃣ **OpenPerf（基准测试型开源项目）**: https://github.com/X-lab2017/open-perf
 
@@ -43,7 +43,7 @@
 
 #### 7️⃣ **OpenLeaderboard（Web 信息服务型开源项目）**: https://github.com/X-lab2017/open-leaderboard
 
-> OpenLeaderboard 是一个全球开源领导力排行榜，基于一套科学、公正、透明的方法，一个多维度展示全球开源项目、开源企业、开源贡献者的排行榜单。[[进入应用](http://open-leaderboard.x-lab.info "全球开源领导力榜单")]
+> OpenLeaderboard 是一个全球开源领导力排行榜，基于一套科学、公正、透明的方法，一个多维度展示全球开源项目、开源企业、开源贡献者的排行榜单。`[[进入应用](http://open-leaderboard.x-lab.info "全球开源领导力榜单")]`
 
 #### 8️⃣ **ONES Group（规范与标准型开源项目）**: https://github.com/kaiyuanshe/ONES
 
