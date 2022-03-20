@@ -43,7 +43,7 @@
 
 #### 7️⃣ **OpenLeaderboard（Web 信息服务型开源项目）**: https://github.com/X-lab2017/open-leaderboard
 
-> OpenLeaderboard 是一个全球开源领导力排行榜，基于一套科学、公正、透明的方法，一个多维度展示全球开源项目、开源企业、开源贡献者的排行榜单。[进入应用](https://github.com/X-lab2017/open-leaderboard "全球开源领导力榜单")
+> OpenLeaderboard 是一个全球开源领导力排行榜，基于一套科学、公正、透明的方法，一个多维度展示全球开源项目、开源企业、开源贡献者的排行榜单。[[进入应用](https://github.com/X-lab2017/open-leaderboard "全球开源领导力榜单")]
 
 #### 8️⃣ **ONES Group（规范与标准型开源项目）**: https://github.com/kaiyuanshe/ONES
 
