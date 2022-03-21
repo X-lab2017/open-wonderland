@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/15010826/159147591-e094a3f8-9514-48e0-b644-b830bf6377ac.png" width="650px">
 </div>
 
-**<p align="center">OpenWanderland 全景图</p>**
+**<p align="center">OpenWonderland 全景图</p>**
 
 #### 1️⃣ **OpenDigger（数据型开源项目）**: https://github.com/X-lab2017/open-digger
 
