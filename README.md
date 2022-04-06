@@ -71,3 +71,5 @@
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/159158901-924e75ba-52c3-4991-98da-caba38579a9c.png" width="150px">
 </div>
+
+💡 We like the Unix Philosophy of “**do one thing, and do it well**.”
