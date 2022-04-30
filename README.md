@@ -63,8 +63,9 @@
 📚 **GitHub Emoji 表情包**：https://github.com/guodongxiaren/README/blob/master/emoji.md
 
 📚 **GitHub markdown 语法**：
-    - https://github.com/guodongxiaren/README
-    - https://zhuanlan.zhihu.com/p/47897214
+
+- https://github.com/guodongxiaren/README
+- https://zhuanlan.zhihu.com/p/47897214
 
 📚 **Markdown 流程图**：http://mermaid-js.github.io/mermaid/#/
 
