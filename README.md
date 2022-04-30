@@ -78,7 +78,3 @@
 </div>
 
 💡 We like the Unix Philosophy of “**do one thing, and do it well**.”
-
-- 一级列表
-+ 二级列表
-* 三级列表
