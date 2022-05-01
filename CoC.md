@@ -1,4 +1,5 @@
 ### <p align="center">X-lab 社区行为准则 (X-lab Community Code of Conduct)</p>
+#### <p align="center">(通用版)</p>
 
 #### 承诺
 
