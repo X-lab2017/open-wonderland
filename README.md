@@ -51,6 +51,9 @@
 
 > ONES Group 是一个开源战略研究组，聚集一群在开源治理与社群运营方面有不同经历与经验的专业人士，共同推动全球开源治理的发展，建设中国的开源治理创新体系。
 
+#### 9️⃣ **OpenCertified（评估与认证型开源项目）**: https://github.com/X-lab2017/open-certified
+
+> 一个由我国主导的“开源治理评测与认证”工具集项目，参照 Linux 基金会下 Core Infrastructure Initiative (CII)、Security Scorecards、SLSA、CHAOSS 等项目，建设我们自己的开源治理评测工具集，通过评测的项目能够获得社区徽章（badge）或权威认证（评测机构）。逐步形成包括：标准（开源治理）、数据（OpenDigger）、开源工具（OpenCertified）、商业工具（厂商）、专家社区（木兰、开源社ONES组）、用户社区（木兰、开放原子、企业）等在内的一个完整生态。
 
 #### **Reference：👇**
 
