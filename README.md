@@ -67,6 +67,8 @@
 
 📚 **GitHub markdown 语法**：https://github.com/guodongxiaren/README
 
+📚 **Emoji 文字符號**：https://tw.piliapp.com/symbol/arrow/
+
 📚 **Markdown 流程图**：http://mermaid-js.github.io/mermaid/#/
 
 ### **🚩 关于 X-lab**
