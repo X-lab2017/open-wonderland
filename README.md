@@ -55,6 +55,10 @@
 
 > 一个由我国主导的“开源治理评测与认证”工具集项目，参照 Linux 基金会下的 CII、Scorecards、SLSA、CHAOSS 等项目，通过评测的项目能够获得社区徽章（badge）或权威认证（评测机构），逐渐形成包括：标准、数据、开源工具、商业工具、专家社区、用户社区等在内的一个完整生态。
 
+#### 🔟 **X-lab 开放实验室官方网站（集成性开源项目）**: https://github.com/X-lab2017/x-lab-website
+
+> X-lab 开放实验室的官方网站，通过充分利用 GitHub 的开放内容协作模式，以及部分开源工具，搭建一个灵活的、内容可编辑的社区网站，满足社区的日常事务需求。
+
 #### **Reference：👇**
 
 📚 **X-Kanban** (internal only): https://github.com/orgs/X-lab2017/projects/3/views/1
