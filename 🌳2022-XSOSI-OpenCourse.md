@@ -5,39 +5,273 @@
 
 ### 第一周
 
-| 日期  | 书籍       | 重点章节 | 主题               | 主要分享人                                               |
-| ----- | ---------- | -------- | ------------------ | -------------------------------------------------------- |
-| 08-01 | 拥抱开源   | C03      | 什么是法律？       | 孙振华 [@sunzhh02](https://github.com/sunzhh02)          |
-| 08-02 | 拥抱开源   | C06      | 商业模式与加速发展 | 边思康[@richardbsk](https://github.com/richardbsk)       |
-| 08-04 | 开放式协作 | 第五章   | 管理生产的成本     | 庄表伟[@zhuangbiaowei](https://github.com/zhuangbiaowei) |
-| 08-05 | 开放式协作 | 第三章   | 角色，激励和关系   | 王永雷[@wangleo61](https://github.com/wangleo61)         |
+| 日期  | 书籍       | 重点章节 | 主题               | 讲师                                                     | 主持人 | 原课程 | 本次课程 | 讨论 |
+| ----- | ---------- | -------- | ------------------ | -------------------------------------------------------- | ------ | ------ | -------- | ---- |
+| 08-01 | 拥抱开源   | C03      | 什么是法律？       | 孙振华 [@sunzhh02](https://github.com/sunzhh02)          |        |        |          |      |
+| 08-02 | 拥抱开源   | C06      | 商业模式与加速发展 | 边思康[@richardbsk](https://github.com/richardbsk)       |        |        |          |      |
+| 08-04 | 开放式协作 | 第五章   | 管理生产的成本     | 庄表伟[@zhuangbiaowei](https://github.com/zhuangbiaowei) |        |        |          |      |
+| 08-05 | 开放式协作 | 第三章   | 角色，激励和关系   | 王永雷[@wangleo61](https://github.com/wangleo61)         |        |        |          |      |
 
-## 第二周（FOSS）
+### 第二周（FOSS）
 
-详情
+<table border="1">
+    <tr>
+        <th align="left">日期</th>   
+        <th align="left">课程内容</th> 
+        <th align="left">讲师</th>  
+      	<th align="left">主持人</th>
+      	<th align="left">原课程</th>
+      	<th align="left">本次课程</th>
+      	<th align="left">讨论</th>
+    </tr>
+    <tr>
+        <td rowspan="2">08-08</td>
+        <td>Overview and History</td>
+        <td>夏小雅</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Intellectual Property</td>
+        <td>宁泽欣</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-09</td>
+        <td>Corporate Governance</td>
+        <td>顾叶鸣</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Project Communities</td>
+        <td>伍泰炜</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-11</td>
+        <td>Engineering Processes</td>
+        <td>伍泰炜</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Development Tooling</td>
+        <td>史经犇</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-12</td>
+        <td>The software industry</td>
+        <td>杨鸣</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Developer Foundation</td>
+        <td>张翔宇</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-14</td>
+        <td>User Foundation</td>
+        <td>张翔宇</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Labor economics</td>
+        <td>张欣然</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+</table>
 
-| 日期  | 课程                                        | 负责人         |
-| ----- | ------------------------------------------- | -------------- |
-| 08-08 | Overview and History、Intellectual Property | 夏小雅、宁泽欣 |
-| 08-09 | Corporate Governance、Project Communities   | 顾叶鸣、伍泰炜 |
-| 08-11 | Engineering Processes、Development Tooling  | 伍泰炜、史经犇 |
-| 08-12 | The software industry、Developer Foundation | 杨鸣、张翔宇   |
+### 第三周（COSS）
 
-## 第三周（COSS）
+<table border="1">
+    <tr>
+        <th align="left">日期</th>   
+        <th align="left">课程内容</th> 
+        <th align="left">讲师</th>  
+      	<th align="left">主持人</th>
+      	<th align="left">原课程</th>
+      	<th align="left">本次课程</th>
+      	<th align="left">讨论</th>
+    </tr>
+    <tr>
+        <td rowspan="2">08-15</td>
+        <td>Software Industry</td>
+        <td>张欣然</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Software products</td>
+        <td>毕枫林</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-16</td>
+        <td>Software vendors</td>
+        <td>吴双</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Business models</td>
+        <td>吴双</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-18</td>
+        <td>Open source software</td>
+        <td>唐烨男</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Open source projects</td>
+        <td>唐烨男</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-19</td>
+        <td>Commercial open source</td>
+        <td>宁志成</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Cloud service strategies</td>
+        <td>宁志成</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+</table>
 
-| 日期  | 课程                                         | 负责人         |
-| ----- | -------------------------------------------- | -------------- |
-| 08-15 | User Foundation（FOSS）、Labor econo（FOSS） | 张翔宇、张欣然 |
-| 08-16 | Software Industry、Software products         | 张欣然、毕枫林 |
-| 08-18 | Software vendors、Business models            | 吴双           |
-| 08-19 | Open source software、Open source projects   | 唐烨男         |
+### 第四周
 
-## 第四周
-
-| 日期  | 课程                                                         | 负责人 |
-| ----- | ------------------------------------------------------------ | ------ |
-| 08-22 | Commercial open source(COSS)、Cloud service strategies(COSS) | 宁志成 |
-| 08-23 |                                                              |        |
-| 08-25 |                                                              |        |
-| 08-26 |                                                              |        |
+<table border="1">
+    <tr>
+        <th align="left">日期</th>   
+        <th align="left">课程内容</th> 
+        <th align="left">讲师</th>  
+      	<th align="left">主持人</th>
+      	<th align="left">原课程</th>
+      	<th align="left">本次课程</th>
+      	<th align="left">讨论</th>
+    </tr>
+    <tr>
+        <td rowspan="2">08-22</td>
+        <td></td>
+        <td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-23</td>
+        <td></td>
+        <td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-25</td>
+        <td></td>
+        <td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+  	<tr>
+        <td rowspan="2">08-26</td>
+        <td></td>
+        <td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+</table>
 
