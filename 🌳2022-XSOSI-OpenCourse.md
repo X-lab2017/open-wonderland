@@ -28,7 +28,7 @@
         <td rowspan="2">08-08</td>
         <td>Overview and History</td>
         <td>夏小雅</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -36,7 +36,7 @@
     <tr>
         <td>Intellectual Property</td>
         <td>宁泽欣</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -45,7 +45,7 @@
         <td rowspan="2">08-09</td>
         <td>Corporate Governance</td>
         <td>顾叶鸣</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -53,7 +53,7 @@
     <tr>
         <td>Project Communities</td>
         <td>伍泰炜</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -62,7 +62,7 @@
         <td rowspan="2">08-11</td>
         <td>Engineering Processes</td>
         <td>伍泰炜</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -70,7 +70,7 @@
     <tr>
         <td>Development Tooling</td>
         <td>史经犇</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -79,7 +79,7 @@
         <td rowspan="2">08-12</td>
         <td>The software industry</td>
         <td>杨鸣</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -87,7 +87,7 @@
     <tr>
         <td>Developer Foundation</td>
         <td>张翔宇</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -96,7 +96,7 @@
         <td rowspan="2">08-14</td>
         <td>User Foundation</td>
         <td>张翔宇</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -104,7 +104,7 @@
     <tr>
         <td>Labor economics</td>
         <td>张欣然</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -127,7 +127,7 @@
         <td rowspan="2">08-15</td>
         <td>Software Industry</td>
         <td>张欣然</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -135,7 +135,7 @@
     <tr>
         <td>Software products</td>
         <td>毕枫林</td>
-      	<td></td>
+      	<td>娄泽华</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -144,7 +144,7 @@
         <td rowspan="2">08-16</td>
         <td>Software vendors</td>
         <td>吴双</td>
-      	<td></td>
+      	<td>毕枫林</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -152,7 +152,7 @@
     <tr>
         <td>Business models</td>
         <td>吴双</td>
-      	<td></td>
+      	<td>毕枫林</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -161,7 +161,7 @@
         <td rowspan="2">08-18</td>
         <td>Open source software</td>
         <td>唐烨男</td>
-      	<td></td>
+      	<td>毕枫林</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -169,7 +169,7 @@
     <tr>
         <td>Open source projects</td>
         <td>唐烨男</td>
-      	<td></td>
+      	<td>毕枫林</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -178,7 +178,7 @@
         <td rowspan="2">08-19</td>
         <td>Commercial open source</td>
         <td>宁志成</td>
-      	<td></td>
+      	<td>毕枫林</td>
       	<td></td>
       	<td></td>
       	<td></td>
@@ -186,11 +186,11 @@
     <tr>
         <td>Cloud service strategies</td>
         <td>宁志成</td>
+      	<td>毕枫林</td>
       	<td></td>
       	<td></td>
       	<td></td>
-      	<td></td>
-    </tr>
+    </tr> 
 </table>
 
 ### 第四周
