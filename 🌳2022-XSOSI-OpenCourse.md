@@ -13,12 +13,13 @@
 
 ### 第一周
 
-| 日期  | 书籍       | 重点章节 | 主题               | 讲师                                                     | 主持人 | 本次课程 | 讨论                                                         |
-| ----- | ---------- | -------- | ------------------ | -------------------------------------------------------- | ------ | -------- | ------------------------------------------------------------ |
-| 08-01 | 拥抱开源   | C03      | 什么是法律？       | 孙振华 [@sunzhh02](https://github.com/sunzhh02)          | 夏小雅 |          | [discussioncomment-3330297](https://github.com/X-lab2017/open-wonderland/discussions/156#discussioncomment-3330297) |
-| 08-02 | 拥抱开源   | C06      | 商业模式与加速发展 | 边思康[@richardbsk](https://github.com/richardbsk)       | 夏小雅 |          |                                                              |
-| 08-04 | 开放式协作 | 第五章   | 管理生产的成本     | 庄表伟[@zhuangbiaowei](https://github.com/zhuangbiaowei) | 夏小雅 |          |                                                              |
-| 08-05 | 开放式协作 | 第三章   | 角色，激励和关系   | 王永雷[@wangleo61](https://github.com/wangleo61)         | 夏小雅 |          |                                                              |
+| 日期  | 书籍       | 重点章节 | 主题               | 讲师                                                     | 主持人 | 视频 | 
+| ----- | ---------- | -------- | ------------------ | -------------------------------------------------- | ------ | ------ | 
+| 08-01 | 拥抱开源   | C03      | 什么是法律？       | 孙振华 [@sunzhh02](https://github.com/sunzhh02)          |  夏小雅   |  [Video](https://www.bilibili.com/video/BV1pU4y1Y7Q8?spm_id_from=333.999.0.0&vd_source=6afe4b8be94a864bf36064ef28580424)|   
+| 08-05 | 开放式协作 | 第三章   | 角色，激励和关系   | 王永雷[@wangleo61](https://github.com/wangleo61)         |  夏小雅    | [Vide0](https://www.bilibili.com/video/BV12G4y1e777?spm_id_from=333.999.0.0&vd_source=6afe4b8be94a864bf36064ef28580424)        | 
+| 08-04 | 开放式协作 | 第五章   | 管理生产的成本     | 庄表伟[@zhuangbiaowei](https://github.com/zhuangbiaowei) |  夏小雅   |        | 
+| 08-02 | 拥抱开源   | C06      | 商业模式与加速发展 | 边思康[@richardbsk](https://github.com/richardbsk)       |  夏小雅    |        | 
+
 
 ### 第二周（FOSS）
 
