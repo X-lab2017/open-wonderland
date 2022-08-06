@@ -15,7 +15,7 @@
 
 ## 📆日程安排：
 
-### 第一周
+### 第一周（读书分享）
 
 | 日期  | 书籍       | 重点章节 | 主题               | 讲师                                                     | 主持人 | 视频 | 
 | ----- | ---------- | -------- | ------------------ | -------------------------------------------------- | ------ | ------ | 
@@ -25,7 +25,7 @@
 | 08-02 | 拥抱开源   | C06      | 商业模式与加速发展 | 边思康[@richardbsk](https://github.com/richardbsk)       |  夏小雅    |        | 
 
 
-### 第二周（FOSS）
+### 第二周（FOSS 课程）
 
 <table border="1">
     <tr>
@@ -124,7 +124,7 @@
     </tr>
 </table>
 
-### 第三周（COSS）
+### 第三周（COSS 课程）
 
 <table border="1">
     <tr>
@@ -206,7 +206,7 @@
     </tr> 
 </table>
 
-### 第四周
+### 第四周（读书分享：Open (Source) for Business: A Practical Guide to Open Source Software Licensing）
 
 <table border="1">
     <tr>
