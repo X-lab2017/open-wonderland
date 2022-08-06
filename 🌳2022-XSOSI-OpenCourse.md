@@ -50,7 +50,7 @@
         <td>Intellectual Property</td>
         <td>宁泽欣</td>
       	<td>娄泽华</td>
-      	<td></td>
+      	<td><a href="https://www.youtube.com/watch?v=icORK-MbZdg&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=3">B02</a></td>
       	<td></td>
       	<td></td>
     </tr>
