@@ -53,9 +53,15 @@
         <td>Intellectual Property</td>
         <td>宁泽欣</td>
       	<td>娄泽华</td>
-      	<td><a href="https://www.youtube.com/watch?v=icORK-MbZdg&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=3">B02</a></td>
-      	<td></td>
-      	<td></td>
+      	<td>
+		<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B02%20-%20Intellectual%20Property.pdf">课件链接</a><br/>
+		<a href="https://www.youtube.com/watch?v=icORK-MbZdg&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=3">视频链接</a><br/>
+	    </td>
+      	<td>
+		课件<br/>
+	    	视频
+	    </td>
+      	<td>讨论</td>
     </tr>
   	<tr>
         <td rowspan="2">08-09</td>
