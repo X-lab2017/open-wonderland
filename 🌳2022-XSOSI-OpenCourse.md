@@ -66,7 +66,7 @@
   	<tr>
         <td rowspan="2">08-09</td>
         <td>Corporate Governance</td>
-        <td>顾叶鸣</td>
+        <td>顾业鸣</td>
       	<td>娄泽华</td>
       	<td></td>
       	<td></td>
