@@ -76,9 +76,18 @@
         <td>Project Communities</td>
         <td>伍泰炜</td>
       	<td>娄泽华</td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
+      	<td> 
+			<a href="https://www.youtube.com/watch?v=MgbkYtWhNnM&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=4&ab_channel=DirkRIEHLE">视频链接</a> <br/>
+			<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B04%20-%20Project%20Communities.pdf">课件链接</a><br/>
+			视频字幕（待补充） 
+		</td>
+      	<td>
+			<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B04%20-%20Project%20Communities.pdf">课件</a><br/> 
+			视频
+		</td>
+      	<td>
+			讨论
+		</td>
     </tr>
   	<tr>
         <td rowspan="2">08-11</td>
