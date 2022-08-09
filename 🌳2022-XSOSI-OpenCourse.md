@@ -75,9 +75,9 @@
 	</td>
       	<td>
 		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/udo1zu">课件</a><br>
-		<a>视频</a><br
+		<a>视频</a>
 	</td>
-      	<td></td>
+      	<td>讨论</td>
     </tr>
     <tr>
         <td>Project Communities</td>
@@ -168,7 +168,7 @@
       	<td>娄泽华</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/163">讨论</a></td>
     </tr>
     <tr>
         <td>Software products</td>
