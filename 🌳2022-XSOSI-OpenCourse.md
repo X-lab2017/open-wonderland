@@ -58,7 +58,7 @@
 		<a href="https://www.youtube.com/watch?v=icORK-MbZdg&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=3">视频链接</a><br/>
 	    </td>
       	<td>
-		课件<br/>
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/udo1zu">课件</a><br/>
 	    	视频
 	    </td>
       	<td>讨论</td>
