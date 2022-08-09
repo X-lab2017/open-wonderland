@@ -68,8 +68,15 @@
         <td>Corporate Governance</td>
         <td>顾业鸣</td>
       	<td>娄泽华</td>
-      	<td></td>
-      	<td></td>
+      	<td>
+		<a href="https://www.youtube.com/watch?v=32zRuwlXL1E&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=3">视频链接</a><br>
+		<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B03%20-%20Corporate%20Governance.pdf">课件链接</a><br>
+		<a>视频字幕（待补充）</a>
+	</td>
+      	<td>
+		<a>课件</a><br>
+		<a>视频</a><br
+	</td>
       	<td></td>
     </tr>
     <tr>
