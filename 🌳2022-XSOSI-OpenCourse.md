@@ -74,7 +74,7 @@
 		<a>视频字幕（待补充）</a>
 	</td>
       	<td>
-		<a>课件</a><br>
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/udo1zu">课件</a><br>
 		<a>视频</a><br
 	</td>
       	<td></td>
@@ -89,7 +89,7 @@
 			视频字幕（待补充） 
 		</td>
       	<td>
-			<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B04%20-%20Project%20Communities.pdf">课件</a><br/> 
+			课件<br/> 
 			视频
 		</td>
       	<td>
