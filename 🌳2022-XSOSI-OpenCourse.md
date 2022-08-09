@@ -45,8 +45,8 @@
       	<td><a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B01%20-%20Overview%20History.pdf">课件链接</a><br/>
 <a href="https://www.youtube.com/watch?v=YKD_piAJg_E&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=1">视频链接</a><br/>
 	视频字幕（待补充）</td>
-      	<td><a href="https://xlab2017.yuque.com/docs/share/50e77567-7e2e-4798-8a0d-f15b4d46f880?">课件</a><br/>
-	    视频</td>
+      	<td><a href="https://xlab2017.yuque.com/docs/share/50e77567-7e2e-4798-8a0d-f15b4d46f880">课件</a><br/>
+	    <a href="https://www.bilibili.com/video/BV1FW4y1Y7pu">视频</a></td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
@@ -59,9 +59,9 @@
 	    </td>
       	<td>
 		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/udo1zu">课件</a><br/>
-	    	视频
+	    	<a href="https://www.bilibili.com/video/BV1FW4y1Y7pu">视频</a>
 	    </td>
-      	<td>讨论</td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
   	<tr>
         <td rowspan="2">08-09</td>
@@ -75,9 +75,9 @@
 	</td>
       	<td>
 		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/udo1zu">课件</a><br>
-		<a>视频</a>
+		<a href="https://www.bilibili.com/video/BV1KB4y167vt">视频</a>
 	</td>
-      	<td>讨论</td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
         <td>Project Communities</td>
@@ -90,10 +90,10 @@
 		</td>
       	<td>
 			课件<br/> 
-			视频
+			<a href="https://www.bilibili.com/video/BV1KB4y167vt">视频</a>
 		</td>
       	<td>
-			讨论
+			<a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a>
 		</td>
     </tr>
   	<tr>
@@ -103,7 +103,7 @@
       	<td>娄泽华</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
         <td>Development Tooling</td>
@@ -111,7 +111,7 @@
       	<td>娄泽华</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
   	<tr>
         <td rowspan="2">08-12</td>
@@ -120,7 +120,7 @@
       	<td>娄泽华</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
         <td>Developer Foundation</td>
@@ -128,7 +128,7 @@
       	<td>娄泽华</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
   	<tr>
         <td rowspan="2">08-14</td>
@@ -137,7 +137,7 @@
       	<td>娄泽华</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
         <td>Labor economics</td>
@@ -145,7 +145,7 @@
       	<td>娄泽华</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
 </table>
 
