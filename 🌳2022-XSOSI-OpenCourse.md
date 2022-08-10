@@ -86,10 +86,10 @@
       	<td> 
 			<a href="https://www.youtube.com/watch?v=MgbkYtWhNnM&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=4&ab_channel=DirkRIEHLE">视频链接</a> <br/>
 			<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B04%20-%20Project%20Communities.pdf">课件链接</a><br/>
-			视频字幕（待补充） 
+			<a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Free%20and%20Open%20Source%20Software%20(FOSS)/04-Project%20Communities.srt">视频字幕</a>  
 		</td>
       	<td>
-			课件<br/> 
+			<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/xmegvi">课件</a><br/> 
 			<a href="https://www.bilibili.com/video/BV1KB4y167vt">视频</a>
 		</td>
       	<td>
