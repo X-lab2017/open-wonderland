@@ -105,11 +105,11 @@
 			<a href="https://www.youtube.com/watch?v=PvOt1R9Gxiw&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=5">视频链接</a> <br/>
 			<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B05%20-%20Engineering%20Processes.pdf">课件链接</a><br/>
 			<a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Free%20and%20Open%20Source%20Software%20(FOSS)/05-Engineering%20Processes.srt">视频字幕</a>  
-		</td>
+	</td>
       	<td>
 			<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/nfym6n">课件</a><br/> 
 			视频
-		</td>
+	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
@@ -120,11 +120,11 @@
 			<a href="https://www.youtube.com/watch?v=AqgJ0viCHBE&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=6">视频链接</a> <br/>
 			<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B06%20-%20Development%20Tooling.pdf">课件链接</a><br/>
 			<a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Free%20and%20Open%20Source%20Software%20(FOSS)/06-Development%20Tooling.txt">视频字幕</a>  
-		</td>
+	</td>
       	<td>
-			<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/vbftq1">课件</a><br/> 
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/vbftq1">课件</a><br/> 
 			视频
-		</td>
+	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
 	    </tr>
 		<tr>
@@ -133,14 +133,13 @@
 		<td>杨鸣</td>
 		<td>娄泽华</td>
 		<td><a href=" ">视频链接</a > <br/>
-	   <a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20C01%20-%20The%20Software%20Industry.pdf">课件链接</a ><br/>
+	  	 <a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20C01%20-%20The%20Software%20Industry.pdf">课件链接</a ><br/>
 	   <a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Free%20and%20Open%20Source%20Software%20(FOSS)/07-The%20software%20industry.srt">视频字幕</a >  
 	  </td>
-	       <td>
+       <td>
 	   <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/pgixip">课件</a ><br/> 
 	   视频
 	</td>
-      	<td></td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
