@@ -162,8 +162,15 @@
         <td>User Foundation</td>
         <td>张翔宇</td>
       	<td>娄泽华</td>
-      	<td></td>
-      	<td></td>
+      	<td>
+		<a href="https://www.youtube.com/watch?v=yJZhdnXeKyU&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=9">视频链接</a> <br/>
+		<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20C03%20-%20User%20Consortia.pdf">课件链接</a><br/>
+		视频字幕（待补充）
+	</td>
+      	<td>
+		课件<br/> 
+	   	视频
+	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
@@ -177,6 +184,7 @@
 	</td>
       	<td>
 		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/zx4h46">课件</a ><br/>
+		视频
 	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
