@@ -152,7 +152,7 @@
 	    <a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Free%20and%20Open%20Source%20Software%20(FOSS)/08-Developer%20Foundation.srt">视频字幕</a>
 	</td>
       	<td>
-	   课件<br/> 
+	   <a href="https://xlab2017.yuque.com/docs/share/baec5678-2965-49c3-b02a-fd32a0994145">课件</a ><br/> 
 	   <a href="https://www.bilibili.com/video/BV1QF411w7FT">视频</a>
 	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
@@ -168,7 +168,7 @@
 		视频字幕（待补充）
 	</td>
       	<td>
-		课件<br/> 
+		<a href="https://xlab2017.yuque.com/docs/share/60e15ad6-8c3f-48dc-88af-68682a17c3a5">课件</a ><br/> 
 	   	视频
 	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
