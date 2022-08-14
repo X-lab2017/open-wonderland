@@ -168,9 +168,9 @@
 		视频字幕（待补充）
 	</td>
       	<td>
-		<a href="https://xlab2017.yuque.com/docs/share/60e15ad6-8c3f-48dc-88af-68682a17c3a5">课件</a ><br/> 
-	   	视频
-	</td>
+		    <a href="https://xlab2017.yuque.com/docs/share/60e15ad6-8c3f-48dc-88af-68682a17c3a5">课件</a ><br/> 
+	   	  <a href="https://www.bilibili.com/video/bv1uG4y1a71D">视频</a>
+	      </td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
     <tr>
@@ -184,7 +184,7 @@
 	</td>
       	<td>
 		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/zx4h46">课件</a ><br/>
-		视频
+		<a href="https://www.bilibili.com/video/bv1uG4y1a71D">视频</a>
 	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
