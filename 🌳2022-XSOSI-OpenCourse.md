@@ -170,8 +170,14 @@
         <td>Labor economics</td>
         <td>张欣然</td>
       	<td>娄泽华</td>
-      	<td></td>
-      	<td></td>
+      	<td>
+		<a href="https://www.youtube.com/watch?v=-N4f4fKxyQc&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=10">视频链接</a > <br/>
+		<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20C07%20-%20Labor%20Economics.pdf">课件链接</a ><br/>
+		<a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Free%20and%20Open%20Source%20Software%20(FOSS)/10-Labor%20economics.txt">视频字幕</a> 
+	</td>
+      	<td>
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/zx4h46">课件</a ><br/>
+	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/156">讨论</a></td>
     </tr>
 </table>
