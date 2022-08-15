@@ -207,8 +207,14 @@
         <td>Software Industry</td>
         <td>张欣然</td>
       	<td>娄泽华</td>
-      	<td></td>
-      	<td></td>
+      	<td>
+		<a href="https://www.youtube.com/watch?v=yuD4i8karug&list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh&index=1">视频链接</a > <br/>
+		<a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20B01%20-%20The%20Software%20Industry.pdf">课件链接</a ><br/>
+		<a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Commercial%20Open%20Source%20Startups%20(COSS)/01-The%20software%20industry.txt">视频字幕</a> 
+	</td>
+      	<td>
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/srfasr">课件</a ><br/>
+	</td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/163">讨论</a></td>
     </tr>
     <tr>
