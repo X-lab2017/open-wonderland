@@ -56,6 +56,7 @@
       	<td>
 		<a href="https://github.com/dirkriehle/foss-course/blob/main/Generated/Lecture%20slides/FOSS%20B02%20-%20Intellectual%20Property.pdf">课件链接</a><br/>
 		<a href="https://www.youtube.com/watch?v=icORK-MbZdg&list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL&index=3">视频链接</a><br/>
+		<a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Free%20and%20Open%20Source%20Software%20(FOSS)/02-Intellectual%20Property.txt">视频字幕</a>
 	    </td>
       	<td>
 		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/udo1zu">课件</a><br/>
@@ -214,7 +215,7 @@
 	</td>
       	<td>
 		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/srfasr">课件</a ><br/>
-		<a href="[https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20B01%20-%20The%20Software%20Industry.pdf](https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/hoq0o9)">课件链接</a ><br/>
+		<a href="https://www.bilibili.com/video/BV15N4y1V7u3">视频</a>
 	</td>
       	<td><a href="https://github.com/orgs/X-lab2017/discussions/163">讨论</a></td>
     </tr>
@@ -225,7 +226,9 @@
       	<td> <a href="https://www.youtube.com/watch?v=R9G_upEhAPw&list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh&index=2">视频链接</a ><br/>
 	     <a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20B02%20-%20Software%20Products.pdf">课件链接</a ><br/>	<a href="https://github.com/bifenglin/oss101-awesome-list/blob/main/Commercial%20Open%20Source%20Startups%20(COSS)/02-Software%20products.srt">视频字幕</a>
 	</td>
-      	<td><a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/hoq0o9">课件</a ><br/></td>
+      	<td><a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/hoq0o9">课件</a ><br/>
+	    <a href="https://www.bilibili.com/video/BV15N4y1V7u3">视频</a>
+	</td>
       	<td><a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3395816">讨论</a></td>
     </tr>
   	<tr>
