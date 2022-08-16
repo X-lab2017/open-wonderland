@@ -231,25 +231,17 @@
 	</td>
       	<td><a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3395816">讨论</a></td>
     </tr>
-  	<tr>
-        <td rowspan="2">08-16</td>
-        <td>Software vendors</td>
-        <td>吴双</td>
+    <tr>
+        <td>08-16</td>
+        <td>Commercial open source</td>
+        <td>宁志成</td>
       	<td>毕枫林</td>
       	<td></td>
       	<td></td>
       	<td></td>
     </tr>
     <tr>
-        <td>Business models</td>
-        <td>吴双</td>
-      	<td>毕枫林</td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
-    </tr>
-  	<tr>
-        <td rowspan="2">08-18</td>
+        <td rowspan="2">08-17</td>
         <td>Open source software</td>
         <td>唐烨男</td>
       	<td>毕枫林</td>
@@ -266,9 +258,9 @@
       	<td></td>
     </tr>
   	<tr>
-        <td rowspan="2">08-19</td>
-        <td>Commercial open source</td>
-        <td>宁志成</td>
+        <td rowspan="2">08-18</td>
+        <td>Research and startup</td>
+        <td>娄泽华</td>
       	<td>毕枫林</td>
       	<td></td>
       	<td></td>
@@ -282,6 +274,23 @@
       	<td></td>
       	<td></td>
     </tr> 
+    <tr>
+        <td rowspan="2">08-19</td>
+        <td>Software vendors</td>
+        <td>吴双</td>
+      	<td>毕枫林</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
+    <tr>
+        <td>Business models</td>
+        <td>吴双</td>
+      	<td>毕枫林</td>
+      	<td></td>
+      	<td></td>
+      	<td></td>
+    </tr>
 </table>
 
 ### 第四周（读书分享：Open (Source) for Business: A Practical Guide to Open Source Software Licensing）
