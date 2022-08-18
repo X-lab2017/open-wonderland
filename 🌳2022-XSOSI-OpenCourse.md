@@ -289,9 +289,16 @@
         <td>Research and startup</td>
         <td>娄泽华</td>
       	<td>毕枫林</td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
+      	<td>
+	    <a href="https://www.youtube.com/watch?v=pP_MzlW3ZJ0&list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh&index=10">视频链接</a><br />
+            <a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20D02%20-%20Research%20and%20Startup.pdf">课件链接</a><br />
+            视频字幕（待补充）
+	</td>
+	<td>
+	    <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/gr70gm">课件</a><br />
+            <a href="https://www.bilibili.com/video/bv1EB4y1V7tA">视频</a>
+	</td>
+      	<td>讨论</td>
     </tr>
     <tr>
         <td>Cloud service strategies</td>
@@ -304,7 +311,7 @@
         </td>
       	<td>
             <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/rga8v1">课件</a><br />
-            <a href="">视频</a>
+            <a href="https://www.bilibili.com/video/bv1EB4y1V7tA">视频</a>
         </td>
       	<td>
             <a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3419021">讨论</a>
