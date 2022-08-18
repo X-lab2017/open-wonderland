@@ -252,7 +252,7 @@
         </td>
         <td>
           <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/feq5w7">课件</a><br />
-          <a href="">视频</a>
+          <a href="https://www.bilibili.com/video/BV1Cd4y1o7pP?spm_id_from=333.999.0.0&vd_source=25fdba6cb3df4f40deff6134a588c9ac&t=4.9">视频</a>
         </td>
         <td>
           <a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3411092" >#163</a >
@@ -269,7 +269,7 @@
         </td>
         <td>
           <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/pkg8ui">课件</a><br />
-          <a href="">视频</a>
+          <a href="https://www.bilibili.com/video/BV1Cd4y1o7pP?spm_id_from=333.999.0.0&vd_source=25fdba6cb3df4f40deff6134a588c9ac&t=2421.4">视频</a>
         </td>
         <td>
           <a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3411321" >#163</a >
