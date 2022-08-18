@@ -245,17 +245,35 @@
         <td>Open source software</td>
         <td>唐烨男</td>
       	<td>毕枫林</td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=RiOxg95b2_8&list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh&index=5" >视频链接</a ><br />
+          <a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20C01%20-%20Open%20Source%20Software.pdf" >课件链接</a ><br />
+          <a href="https://github.com/bifenglin/oss101-awesome-list/blob/main/Commercial%20Open%20Source%20Startups%20(COSS)/05-Open%20source%20software%20.txt" >视频字幕</a >
+        </td>
+        <td>
+          <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/feq5w7">课件</a><br />
+          <a href="https://www.bilibili.com/video/BV1Cd4y1o7pP?spm_id_from=333.999.0.0&vd_source=25fdba6cb3df4f40deff6134a588c9ac&t=4.9">视频</a>
+        </td>
+        <td>
+          <a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3411092" >#163</a >
+        </td>
     </tr>
     <tr>
         <td>Open source projects</td>
         <td>唐烨男</td>
       	<td>毕枫林</td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=RiOxg95b2_8&list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh&index=6" >视频链接</a ><br />
+          <a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20C02%20-%20Open%20Source%20Projects.pdf" >课件链接</a ><br />
+          <a href="https://github.com/bifenglin/oss101-awesome-list/blob/main/Commercial%20Open%20Source%20Startups%20(COSS)/06-Open%20source%20projects.txt" >视频字幕</a >
+        </td>
+        <td>
+          <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/pkg8ui">课件</a><br />
+          <a href="https://www.bilibili.com/video/BV1Cd4y1o7pP?spm_id_from=333.999.0.0&vd_source=25fdba6cb3df4f40deff6134a588c9ac&t=2421.4">视频</a>
+        </td>
+        <td>
+          <a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3411321" >#163</a >
+        </td>
     </tr>
   	<tr>
         <td rowspan="2">08-18</td>
