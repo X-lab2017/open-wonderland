@@ -236,9 +236,18 @@
         <td>Commercial open source</td>
         <td>宁志成</td>
       	<td>毕枫林</td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
+      	<td>
+          <a href="https://www.youtube.com/watch?v=OmKHzhv1x1M&ab_channel=DirkRIEHLE" >视频链接</a ><br />
+          <a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20C03%20-%20Commercial%20Open%20Source.pdf" >课件链接</a ><br />
+          <a href="https://github.com/bifenglin/oss101-awesome-list/blob/main/Commercial%20Open%20Source%20Startups%20(COSS)/06-Open%20source%20projects.txt" >视频字幕</a >
+        </td>
+      	<td>
+            <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/nnf32q">课件</a><br />
+            <a href="https://www.bilibili.com/video/BV1FN4y1V7b2?vd_source=2854320776007afce9392404f5b21f7f">视频</a>
+        </td>
+      	<td>
+            <a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3419021">讨论</a>
+        </td>
     </tr>
     <tr>
         <td rowspan="2">08-17</td>
@@ -288,9 +297,18 @@
         <td>Cloud service strategies</td>
         <td>宁志成</td>
       	<td>毕枫林</td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
+      	<td>
+          <a href="https://www.youtube.com/watch?v=26nNSML62dQ&ab_channel=DirkRIEHLE" >视频链接</a ><br />
+          <a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20C04%20-%20Cloud%20Service%20Strategies.pdf" >课件链接</a ><br />
+          <a href="https://github.com/bifenglin/oss101-awesome-list/blob/main/Commercial%20Open%20Source%20Startups%20(COSS)/07-Commercial%20open%20source.txt" >视频字幕</a >
+        </td>
+      	<td>
+            <a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/rga8v1">课件</a><br />
+            <a href="">视频</a>
+        </td>
+      	<td>
+            <a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3419021">讨论</a>
+        </td>
     </tr> 
     <tr>
         <td rowspan="2">08-19</td>
