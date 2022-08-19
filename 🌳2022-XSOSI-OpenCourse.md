@@ -323,7 +323,9 @@
         <td>吴双</td>
       	<td>毕枫林</td>
       	<td></td>
-      	<td></td>
+      	<td>
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/cu9gul">课件</a>
+	</td>
       	<td></td>
     </tr>
     <tr>
@@ -331,7 +333,9 @@
         <td>吴双</td>
       	<td>毕枫林</td>
       	<td></td>
-      	<td></td>
+      	<td>
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/it5zi4">课件</a>
+	</td>
       	<td></td>
     </tr>
 </table>
