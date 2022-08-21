@@ -353,71 +353,37 @@
       	<th align="left">讨论</th>
     </tr>
     <tr>
-        <td rowspan="2">08-22</td>
-        <td></td>
-        <td></td>
-      	<td></td>
+        <td>08-22</td>
+        <td>《商业开源》共读分享（1）</td>
+        <td>刘伟，王伟</td>
+      	<td>毕枫林</td>
       	<td></td>
       	<td></td>
       	<td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-      	<td></td>
+        <td>08-23</td>
+        <td>《商业开源》共读分享（2）</td>
+      	<td>王永雷，王伟</td>
       	<td></td>
       	<td></td>
       	<td></td>
     </tr>
   	<tr>
-        <td rowspan="2">08-23</td>
-        <td></td>
-        <td></td>
+        <td>08-25</td>
+        <td>Open Source Software Licensing Basics for Corporate Users，Heather Meeker</td>
+        <td>自学</td>
       	<td></td>
       	<td></td>
       	<td></td>
       	<td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>08-26</td>
+        <td>From Project to Profit: Commercial Open Source Software Licensing and Business Models，Heather Meeker</td>
+      	<td>自学</td>
       	<td></td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
-    </tr>
-  	<tr>
-        <td rowspan="2">08-25</td>
-        <td></td>
-        <td></td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
-    </tr>
-  	<tr>
-        <td rowspan="2">08-26</td>
-        <td></td>
-        <td></td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-      	<td></td>
-      	<td></td>
-      	<td></td>
+      	<td></d>
       	<td></td>
     </tr>
 </table>
