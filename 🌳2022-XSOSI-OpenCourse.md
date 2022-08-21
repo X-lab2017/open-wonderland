@@ -355,8 +355,8 @@
     <tr>
         <td>08-22</td>
         <td>《商业开源》共读分享（1）</td>
-        <td>刘伟，王伟</td>
-      	<td>毕枫林</td>
+        <td>刘伟</td>
+      	<td>王伟</td>
       	<td></td>
       	<td></td>
 	    <td><a href="https://github.com/X-lab2017/open-wonderland/discussions/168">讨论</a></td>
@@ -364,8 +364,8 @@
     <tr>
         <td>08-23</td>
         <td>《商业开源》共读分享（2）</td>
-      	<td>王永雷，王伟</td>
-      	<td></td>
+      	<td>王永雷</td>
+      	<td>王伟</td>
       	<td></td>
 	<td></td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/168">讨论</a></td>
