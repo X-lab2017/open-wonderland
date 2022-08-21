@@ -322,21 +322,35 @@
         <td>Software vendors</td>
         <td>吴双</td>
       	<td>毕枫林</td>
-      	<td></td>
       	<td>
-		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/cu9gul">课件</a>
+		<a href="https://www.youtube.com/watch?v=irNytPWACME&list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh&index=3" >视频链接</a ><br />
+          <a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20B03%20-%20Software%20Vendors.pdf" >课件链接</a ><br />
+          <a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Commercial%20Open%20Source%20Startups%20(COSS)/03-Software%20vendors%20.txt" >视频字幕</a >
 	</td>
-      	<td></td>
+      	<td>
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/cu9gul">课件</a><br />
+		<a href="https://www.bilibili.com/video/BV1PY4y1F76M">视频</a>
+	</td>
+      	<td>
+		<a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3439990">讨论</a>
+	</td>
     </tr>
     <tr>
         <td>Business models</td>
         <td>吴双</td>
       	<td>毕枫林</td>
-      	<td></td>
       	<td>
-		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/it5zi4">课件</a>
+		<a href="https://www.youtube.com/watch?v=12fNDFtNMcM&list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh&index=4" >视频链接</a ><br />
+          <a href="https://github.com/dirkriehle/coss-course/blob/main/Generated/Lecture%20slides/COSS%20B04%20-%20Business%20Models.pdf" >课件链接</a ><br />
+          <a href="https://github.com/X-lab2017/oss101-awesome-list/blob/main/Commercial%20Open%20Source%20Startups%20(COSS)/04-Business%20models.txt" >视频字幕</a >
 	</td>
-      	<td></td>
+      	<td>
+		<a href="https://xlab2017.yuque.com/staff-kbz9wp/fw9nem/it5zi4">课件</a><br />
+		<a href="https://www.bilibili.com/video/BV1PY4y1F76M">视频</a>
+	</td>
+      	<td>
+		<a href="https://github.com/orgs/X-lab2017/discussions/163#discussioncomment-3439990">讨论</a>
+	</td>
     </tr>
 </table>
 
