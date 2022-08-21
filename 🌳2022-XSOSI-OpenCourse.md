@@ -359,7 +359,7 @@
       	<td>毕枫林</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td>[讨论](https://github.com/X-lab2017/open-wonderland/discussions/168)</td>
     </tr>
     <tr>
         <td>08-23</td>
@@ -367,7 +367,7 @@
       	<td>王永雷，王伟</td>
       	<td></td>
       	<td></td>
-      	<td></td>
+      	<td>[讨论](https://github.com/X-lab2017/open-wonderland/discussions/168)</td>
     </tr>
   	<tr>
         <td>08-25</td>
