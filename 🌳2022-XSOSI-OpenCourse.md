@@ -386,18 +386,16 @@
         <td>Open Source Software Licensing Basics for Corporate Users，Heather Meeker</td>
         <td>自学</td>
       	<td></td>
-      	<td></td>
-		<td><a href="https://www.youtube.com/watch?v=gF4b1TA5Q5w&t=6s">视频</a></td>
-		<td></td>
+      	<td><a href="https://www.youtube.com/watch?v=gF4b1TA5Q5w&t=6s">视频</a</td>
+		<td>></td>
     </tr>
     <tr>
         <td>08-26</td>
         <td>From Project to Profit: Commercial Open Source Software Licensing and Business Models，Heather Meeker</td>
       	<td>自学</td>
       	<td></td>
-      	<td></td>
       	<td><a href="https://www.youtube.com/watch?v=Ck1gJIZ3Lr4&t=404s">视频</a></td>
-	    <td></td>
+      	<td></td>
     </tr>
 </table>
 
