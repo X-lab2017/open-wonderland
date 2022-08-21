@@ -359,11 +359,10 @@
 <table border="1">
     <tr>
         <th align="left">日期</th>   
-        <th align="left">课程内容</th> 
+        <th align="left">主题</th> 
         <th align="left">讲师</th>  
       	<th align="left">主持人</th>
-      	<th align="left">原课程</th>
-      	<th align="left">本次课程</th>
+      	<th align="left">视频</th>
       	<th align="left">讨论</th>
     </tr>
     <tr>
@@ -371,7 +370,6 @@
         <td>《商业开源》共读分享（1）</td>
         <td>刘伟</td>
       	<td>王伟</td>
-      	<td></td>
       	<td></td>
 	    <td><a href="https://github.com/X-lab2017/open-wonderland/discussions/168">讨论</a></td>
     </tr>
@@ -381,7 +379,6 @@
       	<td>王永雷</td>
       	<td>王伟</td>
       	<td></td>
-	<td></td>
       	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/168">讨论</a></td>
     </tr>
   	<tr>
@@ -390,16 +387,15 @@
         <td>自学</td>
       	<td></td>
       	<td></td>
-      	<td></td>
-      	<td></td>
+		<td><a href="https://www.youtube.com/watch?v=gF4b1TA5Q5w&t=6s">视频</a></td>
     </tr>
     <tr>
         <td>08-26</td>
         <td>From Project to Profit: Commercial Open Source Software Licensing and Business Models，Heather Meeker</td>
       	<td>自学</td>
       	<td></td>
-      	<td></d>
       	<td></td>
+      	<td><a href="https://www.youtube.com/watch?v=Ck1gJIZ3Lr4&t=404s">视频</a></td>
     </tr>
 </table>
 
