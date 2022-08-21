@@ -387,7 +387,7 @@
         <td>自学</td>
       	<td></td>
       	<td><a href="https://www.youtube.com/watch?v=gF4b1TA5Q5w&t=6s">视频</a</td>
-		<td>></td>
+		<td> </td>
     </tr>
     <tr>
         <td>08-26</td>
