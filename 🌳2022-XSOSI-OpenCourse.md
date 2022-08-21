@@ -359,7 +359,7 @@
       	<td>毕枫林</td>
       	<td></td>
       	<td></td>
-      	<td>[讨论](https://github.com/X-lab2017/open-wonderland/discussions/168)</td>
+	    <td><a href="https://github.com/X-lab2017/open-wonderland/discussions/168">讨论</a></td>
     </tr>
     <tr>
         <td>08-23</td>
@@ -368,7 +368,7 @@
       	<td></td>
       	<td></td>
 	<td></td>
-      	<td>[讨论](https://github.com/X-lab2017/open-wonderland/discussions/168)</td>
+      	<td><a href="https://github.com/X-lab2017/open-wonderland/discussions/168">讨论</a></td>
     </tr>
   	<tr>
         <td>08-25</td>
