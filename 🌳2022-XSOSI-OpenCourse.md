@@ -370,7 +370,7 @@
         <td>《商业开源》共读分享（1）</td>
         <td>刘伟</td>
       	<td>王伟</td>
-      	<td></td>
+      	<td><a href="https://www.bilibili.com/video/BV1bY4y1F7yW?vd_source=6afe4b8be94a864bf36064ef28580424">视频</a></td>
 	    <td><a href="https://github.com/X-lab2017/open-wonderland/discussions/168">讨论</a></td>
     </tr>
     <tr>
