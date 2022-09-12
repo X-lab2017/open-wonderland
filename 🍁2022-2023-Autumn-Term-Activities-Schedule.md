@@ -12,5 +12,5 @@
 - 研讨会•开源研究（科研）： [🍁[**查看**](https://github.com/X-lab2017/open-research/blob/main/agenda/%F0%9F%8D%812022-2023-Autumn-Term-OS-Seminar.md)]
 - 研讨会•开源数据（工程）：
 - 研讨会•DevOps
-
+- 研讨会•GNN+KG: [🍁[**查看**](https://github.com/OpenEduTech/OpenEduKG/blob/main/%F0%9F%8D%812022-2023-Autumn-Term-OS-Seminar.md)]
 持续更新~
