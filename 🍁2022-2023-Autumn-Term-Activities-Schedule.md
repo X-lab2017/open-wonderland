@@ -14,3 +14,4 @@
 - 研讨会•DevOps （行业研究+科研） [🍁[**查看**](https://github.com/OpenEduTech/EduTechResearch/blob/main/agenda/%F0%9F%8D%812022-2023-Autumn-Term-DevOps-Seminar.md)]
 - 研讨会•GNN+KG: [🍁[**查看**](https://github.com/OpenEduTech/OpenEduKG/blob/main/%F0%9F%8D%812022-2023-Autumn-Term-OS-Seminar.md)]
 持续更新~
+- 双周会•Hypercrx（工程）：[🍁[**查看**](https://github.com/hypertrons/hypertrons-crx/discussions/453)]
