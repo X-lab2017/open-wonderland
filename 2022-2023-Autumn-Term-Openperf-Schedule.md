@@ -40,7 +40,7 @@
 | 2022-09-29 | 娄泽华                       | 交叉引用数据集研究进展               |                                                            |              |
 | 2022-10-13 | 毕枫林                       | openperf三个基础问题和相关数据集介绍 | [yuque](https://xlab2017.yuque.com/me1x4f/openperf/kgcvno) |              |
 | 2022-10-20 | 韩凡宇                       | 开源项目技术类型标签任务进展         |                                                            |              |
-| 2022-10-27 |                              |                                      |                                                            |              |
+| 2022-10-27 | 宁志成                       | PaddlePaddle Hackathon 开源社区对比研究 | [yuque](https://www.yuque.com/docs/share/3529cef1-b4b8-40ab-95dc-eca21b1061e0) |              |
 | 2022-11-03 |                              |                                      |                                                            |              |
 | 2022-11-10 |                              |                                      |                                                            |              |
 | 2022-11-17 |                              |                                      |                                                            |              |
