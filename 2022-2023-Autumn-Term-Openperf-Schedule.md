@@ -43,7 +43,7 @@
 | 2022-10-27 | 宁志成 <br />吴双                   | PaddlePaddle Hackathon 开源社区对比研究<br />MSR 2023 Mining Challenge: World of Code (WoC) 介绍 | [yuque](https://www.yuque.com/docs/share/3529cef1-b4b8-40ab-95dc-eca21b1061e0) |              |
 | 2022-11-03 |                              |                                      |                                                            |              |
 | 2022-11-10 |                              |                                      |                                                            |              |
-| 2022-11-17 |                              |                                      |                                                            |              |
+| 2022-11-17 | 韩凡宇                             | 开发者价值评估体系                                     |                                                            |              |
 | 2022-11-24 |                              |                                      |                                                            |              |
 | 2022-12-01 |                              |                                      |                                                            |              |
 | 2022-12-08 |                              |                                      |                                                            |              |
