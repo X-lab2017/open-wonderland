@@ -73,11 +73,15 @@
 
 📚 **Emoji 文字符號**：https://tw.piliapp.com/symbol/arrow/
 
+📚 **中文文案排版指北**：https://github.com/sparanoid/chinese-copywriting-guidelines/
+
 📚 **Markdown 流程图**：http://mermaid-js.github.io/mermaid/#/
 
 📚 **X-lab 数据采集大屏**：http://data-status.x-lab.info/
 
 📚 **X-lab 开源治理大屏**：http://dashboard-overview.opensource-service.com/?label=xlab
+
+📚 **X-lab OSPO 大屏**：https://dataease.x-lab.info/link/N1fjcnVD
 
 ### **🚩 关于 X-lab**
 
