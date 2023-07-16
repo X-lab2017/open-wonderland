@@ -25,14 +25,14 @@
 
 ## 会议安排
 
-| 时间    | 主讲人         | 主持人 | 内容                                                         |
-| ------- | -------------- | ------ | ------------------------------------------------------------ |
-| 6月15日 | 黄温瑞、朱志炜 | 毕枫林 | [基于知识图谱的Github项目库推荐研究与实现.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/29472304/1687442270454-bf134e02-4afb-45b2-b71d-1a08396d420d.pdf)  [知识图谱技术综述.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/29472304/1687442263922-e9d8f199-bb34-42c8-b17a-0323ec7ba877.pdf) |
-| 6月22日 | 李鸿斌、王婕   | 毕枫林 | [2104.13030.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/32840817/1687442167643-a7c02472-3fa9-4f83-9ab8-4dce7065467e.pdf)   [scis18.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/32840817/1687442185023-9d602a88-c620-4d20-a7a0-a6f94dd1b87e.pdf) |
-| 6月29日 | 黄温瑞、朱志炜 | 毕枫林 |                                                              |
-| 7月6日  | 李鸿斌、王婕   | 毕枫林 | [Find potential partners A GitHub user recommendation method based on.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/32840817/1688631103403-0a2369f5-b203-42ca-a218-c733c6c26bcd.pdf)  [Find potential partners A GitHub user recommendation method based on.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/32840817/1688631103403-0a2369f5-b203-42ca-a218-c733c6c26bcd.pdf) |
-|         |                |        |                                                              |
-|         |                |        |                                                              |
+| 时间     | 主讲人         | 主持人 | 内容                                                         |
+| -------- | -------------- | ------ | ------------------------------------------------------------ |
+| 6月15日  | 黄温瑞、朱志炜 | 毕枫林 | [基于知识图谱的Github项目库推荐研究与实现.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/29472304/1687442270454-bf134e02-4afb-45b2-b71d-1a08396d420d.pdf)  [知识图谱技术综述.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/29472304/1687442263922-e9d8f199-bb34-42c8-b17a-0323ec7ba877.pdf) |
+| 6月22日  | 李鸿斌、王婕   | 毕枫林 | [2104.13030.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/32840817/1687442167643-a7c02472-3fa9-4f83-9ab8-4dce7065467e.pdf)   [scis18.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/32840817/1687442185023-9d602a88-c620-4d20-a7a0-a6f94dd1b87e.pdf) |
+| 6月29日  | 黄温瑞、朱志炜 | 毕枫林 |                                                              |
+| 7月6日   | 李鸿斌、王婕   | 毕枫林 | [Find potential partners A GitHub user recommendation method based on.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/32840817/1688631103403-0a2369f5-b203-42ca-a218-c733c6c26bcd.pdf)  [Find potential partners A GitHub user recommendation method based on.pdf](https://xlab2017.yuque.com/attachments/yuque/0/2023/pdf/32840817/1688631103403-0a2369f5-b203-42ca-a218-c733c6c26bcd.pdf) |
+| 7月-20日 | 黄温瑞、朱志炜 | 毕枫林 |                                                              |
+|          |                |        |                                                              |
 
 
 
