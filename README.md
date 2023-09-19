@@ -12,6 +12,7 @@
 - ⭐ 这些项目之间是些什么关联，生态位置如何？
 - 🙌 如何选择一个我感兴趣的项目参与贡献？
 - 💪 如何在这里学习、成长与创新？
+- 📆 X-lab 有趣的活动信息：https://github.com/X-lab2017/open-wonderland/wiki/OpenEvent
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/164950554-93f2f8a9-d2fe-4556-9caa-a2778325f902.png" width="650px">
