@@ -94,5 +94,3 @@
 
 💡 We like the Unix Philosophy of “**do one thing, and do it well**.”
 
-![Alt](https://repobeats.axiom.co/api/embed/153c37a8a5129f62464f91a9a1cacfcd11fa259c.svg "Repobeats analytics image")
-
