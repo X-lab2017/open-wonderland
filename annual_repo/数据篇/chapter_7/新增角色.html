@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>堆叠柱状图</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.4.3/echarts.min.js"></script>
+</head>
+
+<body>
+    <!-- 图表容器 -->
+    <div id="chart" style="width: 100%; height: 600px;"></div>
+    <script>
+        var chartDom = document.getElementById('chart');
+        var myChart = echarts.init(chartDom);
+
+        var option = {
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'shadow'
+                }
+            },
+            legend: {
+                top: 'top',
+                data: ['新增探索者', '新增参与者', '新增贡献者', '新增提交者']
+            },
+            xAxis: {
+                type: 'category',
+                data: [
+                    'NixOS/nixpkgs',
+                    'llvm/llvm-project',
+                    'home-assistant/core',
+                    'pytorch/pytorch',
+                    'digitalinnovationone/dio-lab-open-source',
+                    'odoo/odoo',
+                    'microsoft/vscode',
+                    'elastic/kibana',
+                    'zephyrproject-rtos/zephyr',
+                    'godotengine/godot'
+                ],
+                axisLabel: {
+                    interval: 0, // 显示所有 x 轴标签
+                    rotate: 11, // 设置标签旋转角度
+                    fontSize: 12, // 设置字体大小
+                    fontWeight: 'bold'
+                }
+            },
+            yAxis: {
+                type: 'value'
+            },
+            series: [
+                {
+                    name: '新增探索者',
+                    type: 'bar',
+                    stack: '总量',
+                    label: {
+                        show: true,
+                        position: 'inside'
+                    },
+                    data: [4836, 6689, 10483, 12321, 3809, 7559, 14416, 1280 , 2278, 14774]
+                },
+                {
+                    name: '新增参与者',
+                    type: 'bar',
+                    stack: '总量',
+                    label: {
+                        show: true,
+                        position: 'inside'
+                    },
+                    data: [2392, 2191, 5502, 1938, 4455, 445, 10614, 472, 687, 2216]
+                },
+                {
+                    name: '新增贡献者',
+                    type: 'bar',
+                    stack: '总量',
+                    label: {
+                        show: true,
+                        position: 'inside'
+                    },
+                    data: [2187, 1517, 819, 946, 21254, 467, 450, 155, 690, 738]
+                },
+                {
+                    name: '新增提交者',
+                    type: 'bar',
+                    stack: '总量',
+                    label: {
+                        show: true,
+                        position: 'inside'
+                    },
+                    data: [1605, 1223, 565, 496, 224, 239, 312, 117, 554, 445]
+                }
+            ]
+        };
+
+        myChart.setOption(option);
+    </script>
+</body>
+
+</html>
