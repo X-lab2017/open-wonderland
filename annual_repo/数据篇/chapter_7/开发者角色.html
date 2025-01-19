@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>南丁格尔玫瑰图</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.4.3/echarts.min.js"></script>
+</head>
+
+<body>
+    <div id="rose-chart" style="width: 100%; height: 600px;"></div>
+    <script>
+        var chartDom = document.getElementById('rose-chart');
+        var myChart = echarts.init(chartDom);
+
+        var option = {
+            tooltip: {
+                trigger: 'item',
+                formatter: '{a} <br/>{b}: {c}'
+            },
+            legend: {
+                top: 'top',
+                data: ['探索者', '参与者', '贡献者', '提交者']
+            },
+            polar: {
+                radius: ['10%', '80%']
+            },
+            angleAxis: {
+                type: 'category',
+                data: [
+                    'NixOS/nixpkgs',
+                    'llvm/llvm-project',
+                    'home-assistant/core',
+                    'pytorch/pytorch',
+                    'dio-lab-open-source',
+                    'odoo/odoo',
+                    'microsoft/vscode',
+                    'elastic/kibana',
+                    'zephyrproject-rtos/zephyr',
+                    'godotengine/godot'
+                ],
+                startAngle: 90,
+                clockwise: true,
+                axisLabel: {
+                    fontSize: 12,
+                    fontWeight: 'bold'
+                }
+            },
+            radiusAxis: {
+                type: 'value',
+                axisLine: {
+                    show: true
+                },
+                splitLine: {
+                    show: true
+                }
+            },
+            series: [
+                {
+                    name: '提交者',
+                    type: 'bar',
+                    coordinateSystem: 'polar',
+                    data: [3484, 2092, 989, 823, 224, 661, 388, 452, 1120, 678],
+                    stack: '总量'
+                },
+                {
+                    name: '贡献者',
+                    type: 'bar',
+                    coordinateSystem: 'polar',
+                    data: [4339, 2365, 1300, 1424, 21276, 1035, 579, 437, 1276, 1072],
+                    stack: '总量'
+                },
+                {
+                    name: '参与者',
+                    type: 'bar',
+                    coordinateSystem: 'polar',
+                    data: [3606, 3241, 7472, 2599, 4462, 650, 12522, 852, 1054, 3314],
+                    stack: '总量'
+                },
+                {
+                    name: '探索者',
+                    type: 'bar',
+                    coordinateSystem: 'polar',
+                    data: [4897, 6789, 10596, 12513, 3813, 7659, 14701, 1298, 2314, 15208],
+                    stack: '总量'
+                }
+            ]
+        };
+
+        myChart.setOption(option);
+    </script>
+</body>
+
+</html>
